@@ -15,3 +15,5 @@ objectNum = 2 #set 1 single object situation set 2 multiple object
     Imgtemp='beer.jpg' # recognition template
     template='beer.pcd' #ICP tmeplate
 run main.py
+
+Besides : There are some template for test and Expriment records listed above
